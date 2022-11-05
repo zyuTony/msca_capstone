@@ -5,4 +5,4 @@
 
 ./app folder contains a streamlit app demo. To run the app, go the app folder in your terminal and run "streamlit run app.py".<br>
 
-./app folder is missing the ./data/.pt files that can be loaded into the model ready to use. The size of those are too big to be put in github. To check out those .pt files, train them first.<br>
+./app folder is missing the ./app/data/.pt files that can be loaded into the model ready to use. The size of those are too big to be put in github. To check out those .pt files, train them first.<br>
